@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @justinjoeman
 - 👀 I’m interested in AWS, Infrastructure as Code, Programming, Solution Architecture and DevOps in general!
 - 🌱 I’m currently learning CS50 - HarvardX's Introduction to Computer Science
+- :dog: I happen to be a dog dad to my little pup Simba woof woof
+- :grin: I also enjoy working out, doing hand stands, spot of photography and taking long walks
 
 
 <!---
